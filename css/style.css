@@ -6,11 +6,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-.conteiner{
-    width: 1200px;
-    /*background-color: aquamarine;*/
-    margin: 0 auto;
-}
+
+
 header
 {
     background-color:#F90030;
@@ -25,6 +22,7 @@ header
     display: flex;
     justify-content: flex-end;
     height: 100%;
+    
 }
 .nav_header
 {
@@ -32,7 +30,7 @@ header
     justify-content: space-around;
     align-items: center;
     /*background-color: blanchedalmond;*/
-    width: 590px;
+    width: 540px;
     height: 100%;
 }
 .nav_header a
@@ -92,6 +90,7 @@ hr
 {
     background-color: #080324;
     height: 767px;
+
 }
 .conteiner_conteudo 
 {
@@ -99,6 +98,8 @@ hr
     flex-direction: column;
     justify-content: space-evenly;
     height: 100%;
+    margin-left: 50px;
+    margin-right: 50px;
 
 }
 .conteiner_sobre h2
