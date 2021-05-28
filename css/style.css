@@ -22,6 +22,7 @@ header
     display: flex;
     justify-content: flex-end;
     height: 100%;
+    
 }
 .nav_header
 {
@@ -89,6 +90,7 @@ hr
 {
     background-color: #080324;
     height: 767px;
+
 }
 .conteiner_conteudo 
 {
